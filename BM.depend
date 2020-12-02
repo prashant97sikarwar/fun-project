@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1606746307 source:c:\users\duta\desktop\bank\bm\src\account.cpp
+	"account.h"
+	<string>
+
+1606746388 c:\users\duta\desktop\bank\bm\include\account.h
+	<fstream>
+	<cctype>
+	<iomanip>
+	<bits/stdc++.h>
+
+1606739340 source:c:\users\duta\desktop\bank\bm\src\atm.cpp
+	"Atm.h"
+
+1606746444 c:\users\duta\desktop\bank\bm\include\atm.h
+	<fstream>
+	<cctype>
+	<iomanip>
+	<bits/stdc++.h>
+
+1606809253 source:c:\users\duta\desktop\bank\bm\src\bankmanagement.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<cctype>
+	<iomanip>
+	<bits/stdc++.h>
+	"account.h"
+	"atm.h"
+
